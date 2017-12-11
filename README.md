@@ -3,7 +3,7 @@ A light-weight attention-based encoder-decoder model for neural machine translat
 
 This package is based on the [dl4mt](https://github.com/nyu-dl/dl4mt-tutorial).
 
-## Training
+## Train
 ```
 THEANO_FLAGS=device=gpu,floatX=float32 python train.py 
 ```
